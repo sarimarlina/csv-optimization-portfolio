@@ -1,0 +1,6 @@
+file_name,data_rows,file_size_mb,status
+transactions_part_001.csv,200000,19.2,PASS
+transactions_part_002.csv,200000,19.21,PASS
+transactions_part_003.csv,200000,19.21,PASS
+transactions_part_004.csv,200000,19.21,PASS
+transactions_part_005.csv,200000,19.21,PASS

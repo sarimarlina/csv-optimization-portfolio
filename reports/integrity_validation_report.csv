@@ -1,0 +1,2 @@
+input_rows,output_rows,matching_rows,mismatched_rows,missing_rows,extra_rows,output_files,execution_seconds,validation_status
+1000000,1000000,1000000,0,0,0,5,9.26,PASS

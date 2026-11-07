@@ -1,0 +1,6 @@
+file_name,original_size_mb,compressed_size_mb,space_saved_percent,execution_seconds,integrity_status
+transactions_part_001.csv,19.2,3.31,82.76,1.03,PASS
+transactions_part_002.csv,19.21,3.31,82.75,0.79,PASS
+transactions_part_003.csv,19.21,3.31,82.76,0.58,PASS
+transactions_part_004.csv,19.21,3.31,82.75,0.56,PASS
+transactions_part_005.csv,19.21,3.31,82.76,0.54,PASS
